@@ -1,4 +1,5 @@
 h1. The Great Todo
+
 h2. Sample Clojure Web Application
 
 Here is what you will need to compile this applicaiton
@@ -12,5 +13,12 @@ Once these are installed you can build and run the application with the followin
 # $>lein cljsbuild once
 # $>lien run
 # Navigate to "http://localhost:10012":http://localhost:10012 
+
+h2. Technologies Used
+
+# "Enfocus":http://ckirkendall.github.com/enfocus-site - template and dom manipulation
+# "Monger":https://github.com/michaelklishin/monger - Clojure to Mongo DB library
+# "Noir":http://webnoir.org/ - Simple Clojure web framework
+# "Fetch":https://github.com/ibdknox/ - basic RMI between ClojureScript and Clojure
 
 h1. Happy Hacking!
