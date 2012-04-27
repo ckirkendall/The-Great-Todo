@@ -16,9 +16,9 @@ Once these are installed you can build and run the application with the followin
 
 h2. Technologies Used
 
-# "Enfocus":http://ckirkendall.github.com/enfocus-site - template and dom manipulation
+# "Enfocus":http://ckirkendall.github.com/enfocus-site - Templating and dom manipulation
 # "Monger":https://github.com/michaelklishin/monger - Clojure to Mongo DB library
 # "Noir":http://webnoir.org/ - Simple Clojure web framework
-# "Fetch":https://github.com/ibdknox/ - basic RMI between ClojureScript and Clojure
+# "Fetch":https://github.com/ibdknox/fetch - Basic RMI between ClojureScript and Clojure
 
 h1. Happy Hacking!
