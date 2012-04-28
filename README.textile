@@ -5,6 +5,7 @@ h2. Sample Clojure Web Application
 Here is what you will need to compile this applicaiton
 # "lieningen":https://github.com/technomancy/leiningen
 # "lein-cljsbuild":https://github.com/emezeske/lein-cljsbuild
+# "MongoDB":http://www.mongodb.org/
 
 h2. Building and Running
 
