@@ -2,8 +2,8 @@ h1. The Great Todo
 
 h2. Sample Clojure Web Application
 
-Here is what you will need to compile this applicaiton
-# "lieningen":https://github.com/technomancy/leiningen
+Here is what you will need to compile this application
+# "leiningen":https://github.com/technomancy/leiningen
 # "lein-cljsbuild":https://github.com/emezeske/lein-cljsbuild
 # "MongoDB":http://www.mongodb.org/
 
@@ -12,7 +12,7 @@ h2. Building and Running
 Once these are installed you can build and run the application with the following steps
 
 # $>lein cljsbuild once
-# $>lien run
+# $>lein run
 # Navigate to "http://localhost:10012":http://localhost:10012 
 
 h2. Technologies Used
